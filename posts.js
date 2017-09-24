@@ -7,7 +7,7 @@ const defaultData = {
     id: '8xf0y6ziyjabvozdd253nd',
     timestamp: 1467166872634,
     title: 'Udacity is the best place to learn React',
-    body: 'Everyone says so after all.',
+    body: 'Everyone says so after all.Everyone says so after all.',
     author: 'thingtwo',
     category: 'react',
     voteScore: 6,
@@ -20,6 +20,26 @@ const defaultData = {
     body: 'Just kidding. It takes more than 10 minutes to learn technology.',
     author: 'thingone',
     category: 'redux',
+    voteScore: -5,
+    deleted: false
+  },
+   "6ni6ok3ym7mf1p33lney": {
+    id: '6ni6ok3ym7mf1p33lney',
+    timestamp: 1468479767190,
+    title: 'Learn Angular in 500 minutes!',
+    body: 'Angular still there.',
+    author: 'thingone',
+    category: 'udacity',
+    voteScore: -5,
+    deleted: false
+  },
+  "6ni6ok3ym7mf1p33lnea": {
+    id: '6ni6ok3ym7mf1p33lnea',
+    timestamp: 1468479767190,
+    title: 'Learn Angular in 1000 minutes!',
+    body: 'Angular still there.',
+    author: 'thingone',
+    category: 'udacity',
     voteScore: -5,
     deleted: false
   }

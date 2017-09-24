@@ -22,6 +22,46 @@ const defaultData = {
     voteScore: -5,
     deleted: false,
     parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve75": {
+    id: '8tu4bsun805n8un48ve75',
+    parentId: "8xf0y6ziyjabvozdd253nd",
+    timestamp: 1469479767190,
+    body: 'Second comment',
+    author: 'thingone',
+    voteScore: 10,
+    deleted: false,
+    parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve01": {
+    id: '8tu4bsun805n8un48ve01',
+    parentId: "6ni6ok3ym7mf1p33lnez",
+    timestamp: 1469479767190,
+    body: 'Comment1',
+    author: 'Anoop',
+    voteScore: 1,
+    deleted: false,
+    parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve02": {
+    id: '8tu4bsun805n8un48ve02',
+    parentId: "6ni6ok3ym7mf1p33lnez",
+    timestamp: 1469479767190,
+    body: 'Comment2',
+    author: 'Anoop',
+    voteScore: 1,
+    deleted: false,
+    parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve03": {
+    id: '8tu4bsun805n8un48ve03',
+    parentId: "6ni6ok3ym7mf1p33lney",
+    timestamp: 1469479767190,
+    body: 'This is the comment',
+    author: 'Mundathan',
+    voteScore: 1,
+    deleted: false,
+    parentDeleted: false
   }
 }
 
